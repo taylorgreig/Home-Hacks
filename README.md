@@ -22,6 +22,7 @@ If you save the module to your path you can simply open powershell and run
 - [Script execution policy]((https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.2)) must be set per your requirements.
 
     `Get-ExecutionPolicy`
+    
     `Set-ExecutionPolicy <Bypass|RemoteSigned>`
     
 - It must be run in an elevated session.
