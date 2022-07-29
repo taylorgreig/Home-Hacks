@@ -5,6 +5,7 @@
 This script uses [bcedit](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/bcdedit-command-line-options?view=windows-11) to toggle the `hypervisorlaunchtype` between `auto` and `off`. 
 It will show what the current setting is and ask if you would like to switch and restart the computer.
 ### Which setting?
+
 |   Type    | You can use                     |
 | :-------: | :-----------------------------  |
 |   Auto    |   WSL                           |
