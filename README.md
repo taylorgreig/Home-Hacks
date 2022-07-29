@@ -7,7 +7,7 @@ It will show what the current setting is and ask if you would like to switch and
 ### Which setting?
 
 |   Type    | You can use                     |
-| :-------: | :-----------------------------  |
+| :-------  | :-----------------------------  |
 |   Auto    |   WSL                           |
 |   Off     |   VMware Workstation/VirtualBox |
 
