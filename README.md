@@ -6,7 +6,7 @@ This script uses [bcedit](https://docs.microsoft.com/en-us/windows-hardware/manu
 It will show what the current setting is and ask if you would like to switch and restart the computer.
 ### Which setting?
 
-|   Type    | You can use                     |
+| Type      | You can use                     |
 | :-------  | :-----------------------------  |
 |   Auto    |   WSL                           |
 |   Off     |   VMware Workstation/VirtualBox |
