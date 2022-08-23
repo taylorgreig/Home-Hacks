@@ -9,7 +9,7 @@
     GUID              = '7287c7cf-2627-473b-a5ab-1a7ac614c415'
     Author            = 'Taylor Greig'
     Copyright         = '(c) Taylor Greig. All rights reserved.'
-    FunctionsToExport = 'HypervisorLaunchType', 'Compare-FileHash'
+    FunctionsToExport = 'Switch-HypervisorLaunchType', 'Compare-FileHash'
     CmdletsToExport   = @()
     VariablesToExport = '*'
     AliasesToExport   = @()
