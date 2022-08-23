@@ -4,13 +4,13 @@
 #
 # Generated on: 11/07/2022
 @{
-    RootModule = 'Home-Hacks.psm1'
-    ModuleVersion = '1.0'
-    GUID = '7287c7cf-2627-473b-a5ab-1a7ac614c415'
-    Author = 'Taylor Greig'
-    Copyright = '(c) Taylor Greig. All rights reserved.'
-    FunctionsToExport = 'Switch-HypervisorLaunchType'
-    CmdletsToExport = @()
+    RootModule        = 'Home-Hacks.psm1'
+    ModuleVersion     = '1.0'
+    GUID              = '7287c7cf-2627-473b-a5ab-1a7ac614c415'
+    Author            = 'Taylor Greig'
+    Copyright         = '(c) Taylor Greig. All rights reserved.'
+    FunctionsToExport = 'HypervisorLaunchType', 'Compare-FileHash'
+    CmdletsToExport   = @()
     VariablesToExport = '*'
-    AliasesToExport = @()
+    AliasesToExport   = @()
 }
